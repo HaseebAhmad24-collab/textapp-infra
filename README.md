@@ -4,13 +4,16 @@
 
 ### A hands-on DevOps project: designing, securing, and deploying a real 3-tier architecture on AWS from scratch — no Terraform, no shortcuts, pure infrastructure engineering.
 
-[![AWS](https://img.shields.io/badge/AWS-VPC%20%7C%20EC2%20%7C%20ALB-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![Django](https://img.shields.io/badge/Backend-Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
-[![React](https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
-[![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Nginx](https://img.shields.io/badge/Web%20Server-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org/)
-[![HTTPS](https://img.shields.io/badge/SSL-ACM%20Secured-1E90FF?style=for-the-badge&logo=letsencrypt&logoColor=white)](https://aws.amazon.com/certificate-manager/)
-[![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge)](https://textapp.haseebxdev.online)
+![AWS](https://img.shields.io/badge/AWS-EC2-orange?logo=amazonaws&logoColor=white)
+![VPC](https://img.shields.io/badge/AWS-VPC-orange?logo=amazonaws&logoColor=white)
+![ALB](https://img.shields.io/badge/AWS-Load%20Balancer-orange?logo=amazonaws&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-Web%20Server-009639?logo=nginx&logoColor=white)
+![SSL](https://img.shields.io/badge/SSL-AWS%20ACM-003A70?logo=letsencrypt&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/OS-Ubuntu%2022.04-E95420?logo=ubuntu&logoColor=white)
+![Django](https://img.shields.io/badge/Backend-Django-092E20?logo=django&logoColor=white)
+![React](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Live-brightgreen)
 
 </div>
 
