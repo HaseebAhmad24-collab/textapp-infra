@@ -16,8 +16,9 @@
 ![Status](https://img.shields.io/badge/Status-Live-brightgreen)
 
 </div>
-https://textapp.haseebxdev.online/
----
+<div align="center">
+Demo-Link https://textapp.haseebxdev.online/
+</div>
 
 ## 📌 What is this project, actually?
 
